@@ -7,7 +7,7 @@ function App() {
  return (
   <main className="container">
    <div className="header">
-    <h1>Tous Les Produits</h1>
+    <h1>Tous Les HIBA</h1>
    </div>
    <div className="menu">
     <div className="pizzas">
