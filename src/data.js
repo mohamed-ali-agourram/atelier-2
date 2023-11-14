@@ -2,7 +2,7 @@ const pizzaData = [
   {
     name: "Focaccia",
     ingredients: "Bread with italian olive oil and rosemary",
-    price: 6,
+    price: "FABOR",
     photoName: "pizzas/focaccia.jpg",
     soldOut: false,
   },
